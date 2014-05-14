@@ -12,3 +12,7 @@ else:
     result = "BŁĄÐ"
 print("=")
 print(result)
+def testowa_funkcja(dzialanie):
+    if dzialanie=="*":
+        print("mnozenie")
+print("Wprowadź działanie")
