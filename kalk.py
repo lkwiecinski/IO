@@ -1,7 +1,3 @@
-def testowa_funkcja(dzialanie):
-    if dzialanie=="*":
-        print("mnozenie")
-print("Wprowadź działanie")
 a = input()
 dzialanie = input()
 b = input()
@@ -13,3 +9,7 @@ else:
     result = "BŁĄÐ"
 print("=")
 print(result)
+def testowa_funkcja(dzialanie):
+    if dzialanie=="*":
+        print("mnozenie")
+print("Wprowadź działanie")
