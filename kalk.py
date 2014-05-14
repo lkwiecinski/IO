@@ -1,3 +1,5 @@
+def komentarz():
+    print("Pozrowienia dla małżonki :)")
 print(">>")
 a = input()
 dzialanie = input()
