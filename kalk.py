@@ -1,4 +1,6 @@
-print(">>")
+def testowa_funkcja(dzialanie):
+    if
+print("Wprowadź działanie")
 a = input()
 dzialanie = input()
 b = input()
